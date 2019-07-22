@@ -74,14 +74,16 @@ body {
     width: 15px;
     border: 0;
     outline: none;
-    cursor: pointer; }
+    cursor: pointer;
+    background-color: transparent; }
   .top__block .select {
     border: 0;
     outline: none;
     font-weight: 700;
     font-size: 13px;
     line-height: 26px;
-    cursor: pointer; }
+    cursor: pointer;
+    background-color: transparent; }
   .top__block .last {
     width: 88px;
     border-bottom: 1px solid #dbdcdd;
@@ -113,8 +115,7 @@ body {
     text-align: center;
     padding: 20px 10px;
     background-color: #fff;
-    margin-right: 30px;
-    margin-bottom: 30px; }
+    margin: 15px 15px 30px; }
     .middle__inner .middle__block-item a {
       display: block;
       color: inherit; }
