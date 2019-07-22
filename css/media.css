@@ -43,7 +43,7 @@
     }
 
     .form__inner-list {
-        min-width: 32`0px !important;
+        min-width: 320px;
         width: 100%;
     }
 }

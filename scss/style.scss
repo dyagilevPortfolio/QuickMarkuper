@@ -184,6 +184,7 @@ input[type=checkbox]:checked + label:before {
         font-weight: 700;
         cursor: pointer;
         outline: none;
+        margin-right: 15px;
     }
 
     input[type=submit] {

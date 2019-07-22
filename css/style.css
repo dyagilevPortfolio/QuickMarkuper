@@ -151,7 +151,8 @@ body {
     text-transform: uppercase;
     font-weight: 700;
     cursor: pointer;
-    outline: none; }
+    outline: none;
+    margin-right: 15px; }
   .form__inner input[type=submit] {
     width: 106px;
     background-color: #faed4c;
