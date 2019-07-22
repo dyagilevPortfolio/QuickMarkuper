@@ -123,8 +123,11 @@ input[type=checkbox]:checked + label:before {
 
 .middle__inner {
     display: flex;
-    justify-content: flex-start;
+    flex-wrap: wrap;
+    justify-content: space-around;
     width: 100%;
+    
+
 
     .middle__block-item {
         color: #6d6e71;
@@ -137,6 +140,7 @@ input[type=checkbox]:checked + label:before {
         padding: 20px 10px;
         background-color: #fff;
         margin-right: 30px;
+        margin-bottom: 30px;
 
         a {
             display: block;
