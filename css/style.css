@@ -197,6 +197,8 @@ body {
     padding: 12px 15px 7px 0;
     font-size: 14px;
     font-weight: 700; }
+  .form__inner-item .admin {
+    background-color: transparent; }
   .form__inner-item .form__admin {
     margin-top: 13px;
     border: none;

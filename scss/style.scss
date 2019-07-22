@@ -237,7 +237,9 @@ input[type=checkbox]:checked + label:before {
         font-size: 14px;
         font-weight: 700;
     }
-
+    .admin {
+        background-color: transparent;
+    }
     .form__admin {
         margin-top: 13px;
         border: none;
